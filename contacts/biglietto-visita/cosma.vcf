@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Srl;Cosma;;;
+FN:Cosma Srl
+ORG:Cosma Srl
+TEL;TYPE=WORK,VOICE:+390381319251
+EMAIL;TYPE=INTERNET,WORK:info@cosma-srl.it
+URL:https://www.cosma-srl.it/
+ADR;TYPE=WORK:;;Corso Novara 179;Vigevano;PV;27029;Italia
+NOTE:P.IVA IT 01668990185
+END:VCARD
